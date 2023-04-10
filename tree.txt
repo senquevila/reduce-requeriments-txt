@@ -1,0 +1,4 @@
+certifi==2022.12.7
+pip==21.2.3
+pipdeptree==2.7.0
+setuptools==57.4.0
